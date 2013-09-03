@@ -1,0 +1,3 @@
+
+
+User.build_karma
